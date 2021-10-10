@@ -3,5 +3,3 @@
 //###########################   Programming Courses  ###################
 //######################################################################
 console.log('bongour tout le monde');
-addEventListener;
-WebGLBuffer
